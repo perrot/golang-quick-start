@@ -1,5 +1,5 @@
 # golang-quick-start
-0. the environment: go1.9.3.windows-amd64.msi, windows 10.
+0. The environment: go1.9.3.windows-amd64.msi, windows 10.
 ----
 
 1. win+r then input "cmd" to start command prompt. type "systeminfo" to check the system type.
@@ -39,7 +39,7 @@ mkdir mathapp
 cd mathapp
 notepad main.go
 ```
-//$GOPATH/src/mathapp/main.go
+//%GOROOT%/src/mathapp/main.go
 ```go
 package main
 
